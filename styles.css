@@ -81,11 +81,12 @@ ul {
 
 .information {
     /* text-align: center; */
-    margin-bottom: 100px;
+    padding-top: 30px;
+    padding-bottom: 100px;
 }
 
 .information-main-text {
-    padding: 30px;
+    padding-bottom: 30px;
     font-size: 36px;
     color: #1f2937;
     font-weight: 900;
@@ -95,6 +96,7 @@ ul {
 .card-entries {
     display: flex;
     justify-content: center;
+    align-items: center;
     column-gap: 70px;
 }
 
