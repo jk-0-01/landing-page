@@ -182,3 +182,10 @@ ul {
     font-size: 17px;
     font-size: bold;
 }
+
+.footer {
+    background-color: #1f2937;
+    padding: 20px;
+    text-align: center;
+    color: #f9faf8
+}
