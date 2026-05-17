@@ -146,3 +146,39 @@ ul {
     font-size: 17px;
 }
 
+/* Call to Action Section */
+
+.cta {
+    padding: 100px;
+}
+
+.cta-box {
+    background-color: #3882f6;
+    padding: 50px 150px;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+    color: #f9faf8
+}
+
+.cta-main-text {
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+
+.cta-secondary-text {
+    margin-top: 5px;
+}
+
+.cta-button {
+    align-self: center;
+    color: #f9faf8;
+    background-color: #3882f6;
+    border: 2px solid #f9faf8;
+    border-radius: 5px;
+    padding: 7px 30px;
+    font-size: 17px;
+    font-size: bold;
+}
