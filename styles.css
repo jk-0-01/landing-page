@@ -81,7 +81,7 @@ ul {
 
 .information {
     /* text-align: center; */
-    padding-top: 30px;
+    padding-top: 50px;
     padding-bottom: 100px;
 }
 
@@ -117,3 +117,32 @@ ul {
 .card-text {
     text-align: center;
 }
+
+/* Quote Section */
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 130px 150px 100px;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300px;
+    align-self: flex-start;
+    margin: 0;
+    font-style: italic;
+}
+
+.quote-author {
+    font-weight: 700;
+    align-self: flex-end;
+    font-size: 17px;
+}
+
